@@ -1,0 +1,14 @@
+C:\Users\marco\palindromo\bin\Debug\net10.0\palindromo.exe
+C:\Users\marco\palindromo\bin\Debug\net10.0\palindromo.deps.json
+C:\Users\marco\palindromo\bin\Debug\net10.0\palindromo.runtimeconfig.json
+C:\Users\marco\palindromo\bin\Debug\net10.0\palindromo.dll
+C:\Users\marco\palindromo\bin\Debug\net10.0\palindromo.pdb
+C:\Users\marco\palindromo\obj\Debug\net10.0\palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\palindromo\obj\Debug\net10.0\palindromo.AssemblyInfoInputs.cache
+C:\Users\marco\palindromo\obj\Debug\net10.0\palindromo.AssemblyInfo.cs
+C:\Users\marco\palindromo\obj\Debug\net10.0\palindromo.csproj.CoreCompileInputs.cache
+C:\Users\marco\palindromo\obj\Debug\net10.0\palindromo.dll
+C:\Users\marco\palindromo\obj\Debug\net10.0\refint\palindromo.dll
+C:\Users\marco\palindromo\obj\Debug\net10.0\palindromo.pdb
+C:\Users\marco\palindromo\obj\Debug\net10.0\palindromo.genruntimeconfig.cache
+C:\Users\marco\palindromo\obj\Debug\net10.0\ref\palindromo.dll
